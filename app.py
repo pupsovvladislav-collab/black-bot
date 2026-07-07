@@ -24,7 +24,7 @@ def run_flask():
     port = int(os.environ.get("PORT", 5000))
     app.run(host='0.0.0.0', port=port)
 
-TELEGRAM_TOKEN = "8612396180:AAF7LNaZyWVUJX-hB-Gy06jQWJ8lYf9bqUA"
+TELEGRAM_TOKEN = "8653233522:AAGxSlY-oympjU4wkMwq808iZL9ESNcYoTs"
 TELEGRAM_CHAT_ID = "7276498444"
 OWNER_ID = int(TELEGRAM_CHAT_ID)
 
