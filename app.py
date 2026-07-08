@@ -29,8 +29,8 @@ def run_flask():
 # =====================================================
 # ТВОЙ НОВЫЙ ТОКЕН
 # =====================================================
-TELEGRAM_TOKEN = "8653233522:AAGxSlY-oympjU4wkMwq808iZL9ESNcYoTs"
-TELEGRAM_CHAT_ID = "7276498444"
+TELEGRAM_TOKEN = "8978292762:AAF4EDEbyCB-x3CNiiKT7r6BsvLTCJwSuKY"
+TELEGRAM_CHAT_ID = "8718840662"
 OWNER_ID = int(TELEGRAM_CHAT_ID)
 
 # =====================================================
